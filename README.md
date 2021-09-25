@@ -1,2 +1,2 @@
-# example-bot
-An example discord bot
+# rpg-bot
+An rpg discord bot
