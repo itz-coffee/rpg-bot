@@ -1,0 +1,10 @@
+name: CI
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Discord webhook
+      uses: wildflowericecoffee/facepunch-style-commits@main
+      with:
+        webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
