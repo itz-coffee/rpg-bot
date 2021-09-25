@@ -11,6 +11,6 @@ export default abstract class {
 
     const after = interaction.createdTimestamp;
     
-    interaction.editReply(`Pong! Heartbeat: ${interaction.client.ws.ping}ms, API: ${after - before}ms`);
+    interaction.editReply(`Pong! Heartbeat: ${interaction.client.ws.ping}ms, API: ${before - after}ms`);
   }
 }
