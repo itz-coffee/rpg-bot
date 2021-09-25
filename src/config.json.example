@@ -1,0 +1,10 @@
+{
+    "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "owner": "XXXXXXXXXXXXXXXXXX",
+    "managerRole": "XXXXXXXXXXXXXXXXXX",
+    "helperRole": "XXXXXXXXXXXXXXXXXX",
+    "guilds": [
+        "XXXXXXXXXXXXXXXXXX",
+        "XXXXXXXXXXXXXXXXXX"
+    ]
+}
